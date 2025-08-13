@@ -1,0 +1,18 @@
+npx create-react-app myapp
+cd myapp
+npm start
+
+to check versions:
+node -v
+npm -v
+
+to install packages:
+npm init -y
+
+to install
+npm install cookie-parser
+npm install express
+
+You might need to run PowerShell as Administrator.
+ It will prompt you to confirm — type Y.
+       Set-ExecutionPolicy Unrestricted
